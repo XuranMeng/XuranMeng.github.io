@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/2020-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020
+date: 2020-10-01
 venue: 'Electronics Letters'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2019.3859'
