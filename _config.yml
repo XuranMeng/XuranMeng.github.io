@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "XuranMeng's Homepage"
+title                    : "Xuran Meng's Homepage"
 title_separator          : "-"
 name                     : &name "Xuran Meng"
 description              : &description "personal description"
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
