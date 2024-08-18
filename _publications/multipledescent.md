@@ -8,7 +8,7 @@ date: 2024-01-31
 venue: 'Journal of Machine Learning Research'
 slidesurl: 'http://xuranmeng.github.io/files/slides/multipledescent.pdf'
 paperurl: 'https://www.jmlr.org/papers/volume25/22-1389/22-1389.pdf'
-citation: '<b>Xuran Meng</b>, Jianfeng Yao and Yuan Cao,  <i>JMLR 25</i>, 2024.'
+citation: '<b>Xuran Meng</b>, Jianfeng Yao and Yuan Cao, &quot;Multiple Descent in the Multiple Random Feature Model.&quot; <i>JMLR 25</i>, 2024.'
 ---
 
 
