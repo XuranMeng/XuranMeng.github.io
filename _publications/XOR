@@ -7,5 +7,5 @@ excerpt: 'In this work, we investigate a class of XOR-type classification tasks 
 date: 2024-05-02
 venue: 'International Conference on Machine Learning'
 paperurl: 'https://openreview.net/pdf?id=EhU0xBSP4l'
-citation: '<b>Xuran Meng</b>, Difan Zou and Yuan Cao, <i>ICML</i>, 2024.'
+citation: '<b>Xuran Meng</b>, Difan Zou and Yuan Cao, &quot;Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for XOR Data.&quot; <i>ICML</i>, 2024.'
 ---
