@@ -3,7 +3,7 @@ title: "Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for X
 collection: publications
 category: conferences
 permalink: /publication/XOR
-#excerpt: ''
+excerpt: ' '
 date: 2024-05-02
 venue: 'International Conference on Machine Learning'
 paperurl: 'https://openreview.net/pdf?id=EhU0xBSP4l'
