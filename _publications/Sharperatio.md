@@ -7,7 +7,7 @@ excerpt: 'In this paper, we propose a novel method to estimate the out- of-sampl
 date: 2024-06-07
 venue: 'Arxiv'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://arxiv.org/pdf/2406.03954'
 citation: '<b>Xuran Meng</b>, Yuan Cao and Weichen Wang, &quot;Estimation of Out-of-Sample Sharpe Ratio for High Dimensional Portfolio Optimization.&quot; <i>arxiv: 2406.03954</i>, 2024.'
 ---
 
