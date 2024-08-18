@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/multipledescent
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
+date: 2024-01-31
 venue: 'Journal of Machine Learning Research'
 # slidesurl: 'http://xuranmeng.github.io/files/slides/multipledescent.pdf'
 paperurl: 'https://www.jmlr.org/papers/volume25/22-1389/22-1389.pdf'
