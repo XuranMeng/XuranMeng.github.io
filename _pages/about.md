@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm now a postdoc in the Department of Biostatistics at the University of Michigan. I'm passionate about high dimension statistics. Now, as a postdoc, I'm continuing to pursue my research interests and expand my knowledge in the field of statistics. On this website, you'll find information about my research and publications.
+I am currently a postdoctoral researcher in the Department of Biostatistics at the University of Michigan. My research interests lie in random matrix theory, high-dimensional statistics, and machine learning theory. As a postdoc, I’m focused on exploring new insights and developing innovative approaches in these areas. On this website, you can explore details about my research projects, publications, and academic contributions.
 
 Recent News
 ======
