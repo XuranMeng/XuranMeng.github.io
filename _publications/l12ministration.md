@@ -1,5 +1,5 @@
 ---
-title: "l1–2 minimisation for compressed sensing with partially known signal support"
+title: "l1–2 minimisation for compressed sensing with partially known signal support."
 collection: publications
 category: manuscripts
 permalink: /publication/l12ministration
@@ -8,6 +8,6 @@ date: 2020-10-01
 venue: 'Electronics Letters'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2019.3859'
-citation: 'Jing Zhang, Shuguang Zhang and <b>Xuran Meng</b>, <i>Electronics Letters 56</i>, 2020.'
+citation: 'Jing Zhang, Shuguang Zhang and <b>Xuran Meng</b>, &quot;l1–2 minimisation for compressed sensing with partially known signal support.&quot; <i>Electronics Letters 56</i>, 2020.'
 ---
 
