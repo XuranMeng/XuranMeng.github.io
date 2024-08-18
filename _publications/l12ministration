@@ -11,4 +11,4 @@ paperurl: 'https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/el.2019.3
 citation: 'Jing Zhang, Shuguang Zhang and Xuran Meng, <i>Electronics Letters 56</i>, 2020.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this study, the authors mainly discuss the robust signal recovery by l1−2 minimisation with incorporating prior support information, which is not considered in previous works. A robust recovery condition is established and an recovery error estimation is obtained, in particular, the obtained results generalise the state-of-the-art ones. In addition, by proposing a modified algorithm, the numerical experiments show that incorporating prior support information for l1−2 minimisation exhibits better recovery performance than standard l1−2 minimisation.
