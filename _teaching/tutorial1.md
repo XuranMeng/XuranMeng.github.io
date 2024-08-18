@@ -8,9 +8,5 @@ date: 2020-09-01
 location: "Hong Kong"
 ---
 
-Stochastic Process
-======
-Financial Economics
-======
-Bayesian Learning
-======
+Stochastic Process, Financial Economics, Bayesian Learning
+
