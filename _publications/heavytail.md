@@ -1,5 +1,5 @@
 ---
-title: Impact of classification difficulty on the weight matrices spectra in Deep Learning and application to early-stopping."
+title: "Impact of classification difficulty on the weight matrices spectra in Deep Learning and application to early-stopping."
 collection: publications
 category: manuscripts
 permalink: /publication/heavytail
@@ -8,6 +8,6 @@ date: 2023-01-01
 venue: 'Journal of Machine Learning Research'
 slidesurl: 'http://xuranmeng.github.io/files/slides/heavytail.pdf'
 paperurl: 'https://www.jmlr.org/papers/volume25/22-1389/22-1389.pdf'
-citation: '<b>Xuran Meng</b> and Jianfeng Yao, <i>JMLR 24</i>, 2023.'
+citation: '<b>Xuran Meng</b> and Jianfeng Yao, &quot;Impact of classification difficulty on the weight matrices spectra in Deep Learning and application to early-stopping.&quot; <i>JMLR 24</i>, 2023.'
 ---
 
