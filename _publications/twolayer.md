@@ -3,7 +3,7 @@ title: "Initialization Matters: On the Benign Overfitting of Two-Layer ReLU CNN 
 collection: publications
 category: preprints
 permalink: /publication/twolayer
-excerpt: 'Submitted to JASA'
+#excerpt: 'Submitted to JASA'
 date: 2024-10-24
 venue: 'Arxiv'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
