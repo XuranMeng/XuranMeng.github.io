@@ -1,7 +1,7 @@
 ---
 title: "A Local Existence Theorem for a Parabolic Blow-Up Inverse Problem."
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/inverse
 excerpt: ' '
 date: 2017-06-17
