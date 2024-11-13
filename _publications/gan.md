@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/gan
 excerpt: ' '
 date: 2020-01-01
-venue: 'Journal of Machine Learning Research'
+venue: 'JUSTC'
 #slidesurl: 'http://xuranmeng.github.io/files/slides/heavytail.pdf'
 paperurl: 'http://just.ustc.edu.cn/article/pdf/preview/1641365817900-1998767242.pdf'
 citation: '<b>Xuran Meng</b>, Xiuchun Bi and Shuguang Zhang, &quot;High frequency algorithm and its back-testing results based on GAN.&quot; <i>JUSTC 50</i>, 2020.'
