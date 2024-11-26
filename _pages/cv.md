@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Statistics, University of Hong Kong, 2024
 * M.S. in Statistics, University of Science and Technology of China, 2020
-* B.S. in Statistics, University of Science and Technology of China, 2018
+* B.S. in Statistics, Special Class for Gifted Youths, University of Science and Technology of China, 2018
 
 
   
