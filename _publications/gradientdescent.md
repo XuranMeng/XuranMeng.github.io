@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/gradientdescent
 excerpt: 'Machine Learning'
 date: 2023-03-27
-#venue: 'Arxiv'
+venue: 'Machine Learning'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://arxiv.org/pdf/2303.17940'
 citation: '<b>Xuran Meng</b>, Yuan Cao and Difan Zou, &quot;Per-Example Gradient Regularization Improves Learning Signals from Noisy Data.&quot; <i>Machine Learning</i>, 2024.'
