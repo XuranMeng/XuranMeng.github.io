@@ -11,6 +11,7 @@ I am currently a postdoctoral researcher in the Department of Biostatistics at t
 
 Recent News
 ======
+
 2025.07.08
 -----
 Our paper "Estimation of Out-of-Sample Sharpe Ratio for High Dimensional Portfolio Optimization" is accepted for JASA!
