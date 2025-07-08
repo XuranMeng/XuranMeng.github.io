@@ -6,7 +6,7 @@ permalink: /publication/Sharperatio
 excerpt: 'Accepted by JASA'
 date: 2024-06-07
 venue: 'Journal of the American Statistical Association'
-#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+slidesurl: 'http://xuranmeng.github.io/files/slides/slidesSharpe.pdf'
 paperurl: 'https://arxiv.org/pdf/2406.03954'
 citation: '<b>Xuran Meng</b>, Yuan Cao and Weichen Wang, &quot;Estimation of Out-of-Sample Sharpe Ratio for High Dimensional Portfolio Optimization.&quot; JASA, 2025+.'
 ---
