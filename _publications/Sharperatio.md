@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Sharperatio
 excerpt: 'Accepted by JASA'
-date: 2024-06-07
+date: 2025-07-08
 venue: 'Journal of the American Statistical Association'
 slidesurl: 'http://xuranmeng.github.io/files/slides/slidesSharpe.pdf'
 paperurl: 'https://arxiv.org/pdf/2406.03954'
