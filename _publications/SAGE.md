@@ -3,7 +3,7 @@ title: "Statistical Inference on High Dimensional Gaussian Graphical Regression 
 collection: publications
 category: preprints
 permalink: /publication/SAGE
-excerpt: 'Submitted to JASA'
+excerpt: 'Submitted to Biometrics'
 date: 2024-11-03
 venue: 'Arxiv'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
