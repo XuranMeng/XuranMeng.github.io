@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/sft
 date: 2025-8-8
-#excerpt: 'Submitted to JMLR'
+excerpt: 'Submitted to AAAI'
 venue: 'Arxiv'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/pdf/2508.06026'
