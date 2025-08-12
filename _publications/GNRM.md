@@ -3,7 +3,7 @@ title: "Inferring Outcome Means of Exponential Family Distributions Estimated by
 collection: publications
 category: preprints
 permalink: /publication/GNRM
-excerpt: 'Submitted to AOS'
+excerpt: 'Submitted to JASA'
 date: 2025-04-12
 venue: 'Arxiv'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
