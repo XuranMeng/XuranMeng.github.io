@@ -1,7 +1,7 @@
 ---
 title: "Statistical Inference on High Dimensional Gaussian Graphical Regression Models."
 collection: publications
-category: preprints
+category: manuscripts
 permalink: /publication/SAGE
 excerpt: ' '
 date: 2025-12-22
