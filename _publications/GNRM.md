@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/GNRM
 excerpt: 'Accepted by JASA'
 date: 2026-02-21
-venue: 'JASA'
+venue: 'Journal of the American Statistical Association'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/pdf/2504.09347'
 citation: '<b>Xuran Meng</b> and Yi Li, &quot;Inference for Deep Neural Network Estimators in Generalized Nonparametric Models..&quot; <i>JASA (Theory and Methodologies)</i>, 2026+.'
