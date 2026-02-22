@@ -12,6 +12,10 @@ I am currently a postdoctoral researcher in the Department of Biostatistics at t
 Recent News
 ======
 
+2026.02.21
+-----
+Our paper "Inference for Deep Neural Network Estimators in Generalized Nonparametric Models" is accepted for JASA!
+
 2025.07.08
 -----
 Our paper "Estimation of Out-of-Sample Sharpe Ratio for High Dimensional Portfolio Optimization" is accepted for JASA!
