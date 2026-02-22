@@ -3,9 +3,9 @@ title: "Inferring Outcome Means of Exponential Family Distributions Estimated by
 collection: publications
 category: preprints
 permalink: /publication/GNRM
-excerpt: 'Submitted to JASA'
-date: 2025-04-12
-venue: 'Arxiv'
+excerpt: 'Accepted by JASA'
+date: 2026-02-21
+venue: 'JASA'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/pdf/2504.09347'
 citation: '<b>Xuran Meng</b> and Yi Li, &quot;Inferring Outcome Means of Exponential Family Distributions Estimated by Deep Neural Networks.&quot; <i>arxiv: 2504.09347</i>, 2025.'
