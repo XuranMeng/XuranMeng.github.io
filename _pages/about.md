@@ -14,18 +14,27 @@ I received my Ph.D. in Statistics from the University of Hong Kong (2020–2024)
 Recent News
 ======
 
-2026.02.21
------
-Our paper "Inference for Deep Neural Network Estimators in Generalized Nonparametric Models" is accepted for JASA!
+<style>
+.news-item { margin-bottom: 0.7em; line-height: 1.4; }
+.news-date { font-size: 0.85em; color: #666; }
+</style>
 
-2025.07.08
------
-Our paper "Estimation of Out-of-Sample Sharpe Ratio for High Dimensional Portfolio Optimization" is accepted for JASA!
+<div class="news-item">
+  <span class="news-date">2026.02.21</span><br>
+  Our paper "Inference for Deep Neural Network Estimators in Generalized Nonparametric Models" is accepted by JASA!
+</div>
 
-2024.08.17
------
-I will join Umich as a postdoc!
+<div class="news-item">
+  <span class="news-date">2025.07.08</span><br>
+  Our paper "Estimation of Out-of-Sample Sharpe Ratio for High Dimensional Portfolio Optimization" is accepted by JASA!
+</div>
 
-2024.05.02
------
-Our paper "Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for XOR Data" is accpected for ICML!
+<div class="news-item">
+  <span class="news-date">2024.08.17</span><br>
+  I will join UMich as a postdoc!
+</div>
+
+<div class="news-item">
+  <span class="news-date">2024.05.02</span><br>
+  Our paper "Benign Overfitting in Two-Layer ReLU Convolutional Neural Networks for XOR Data" is accepted by ICML!
+</div>
