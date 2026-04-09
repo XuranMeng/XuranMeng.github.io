@@ -8,23 +8,14 @@ author_profile: true
 {% include base_path %}
 
 <style>
-.talk-table { width: 100%; border-collapse: collapse; }
-.talk-table tr { border-bottom: 1px solid #eee; }
-.talk-table td { padding: 0.4em 0.5em; vertical-align: top; }
-.talk-table td:first-child { white-space: nowrap; color: #555; font-size: 0.9em; width: 4em; }
-.talk-table td:nth-child(2) { white-space: nowrap; color: #888; font-size: 0.85em; width: 5em; }
+.talk-item { margin-bottom: 0.7em; line-height: 1.4; }
+.talk-meta { font-size: 0.85em; color: #666; }
 </style>
 
-<table class="talk-table">
 {% for post in site.talks reversed %}
-  <tr>
-    <td>{{ post.date | date: "%Y" }}</td>
-    <td>{{ post.type }}</td>
-    <td>
-      {% if post.link %}<a href="{{ post.link }}">{{ post.title }}</a>
-      {% else %}{{ post.title }}{% endif %}
-      {% if post.location %}<br><span style="font-size:0.85em; color:#666;">{{ post.venue }}, {{ post.location }}</span>{% endif %}
-    </td>
-  </tr>
+<div class="talk-item">
+  <span class="talk-meta">{{ post.date | date: "%Y" }} &middot; {{ post.type }}</span><br>
+  {{ post.title }}<br>
+  <span class="talk-meta"><i>{{ post.venue }}</i>, {{ post.location }}</span>
+</div>
 {% endfor %}
-</table>
