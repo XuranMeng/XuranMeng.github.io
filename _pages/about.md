@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher in the Department of Biostatistics at the University of Michigan. My research interests lie in random matrix theory, high-dimensional statistics and machine learning theory. As a postdoc, I’m focused on exploring new insights and developing innovative approaches in these areas. On this website, you can see details about my research projects, publications and academic activities.
+I am a Postdoctoral Research Fellow in the Department of Biostatistics at the University of Michigan, advised by [Yi Li](https://websites.umich.edu/~yili/). My research interests span random matrix theory, high dimensional statistics, and machine learning theory.
+
+I received my Ph.D. in Statistics from the University of Hong Kong (2020–2024), advised by [Jianfeng Yao](https://jianfengyao.wordpress.com/) and [Yuan Cao](https://yuancaohku.github.io/), and my B.S./M.S. from the University of Science and Technology of China.
 
 Recent News
 ======
