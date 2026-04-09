@@ -5,32 +5,74 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+{% if site.author.googlescholar %}
+<p>You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</p>
 {% endif %}
 
+<style>
+.pub-list { list-style: none; padding: 0; }
+.pub-list li { margin-bottom: 0.8em; line-height: 1.4; }
+.pub-list li details { margin-top: 0.2em; }
+.pub-list li details summary {
+  cursor: pointer;
+  color: #555;
+  font-size: 0.85em;
+  display: inline;
+}
+.pub-list li details p {
+  margin: 0.3em 0 0 0;
+  font-size: 0.85em;
+  color: #444;
+  line-height: 1.5;
+}
+.pub-section h2 { margin-bottom: 0.4em; }
+.pub-section hr { margin: 0.3em 0 0.8em 0; }
+</style>
 
-
+{% if site.publication_category %}
+  {% for category in site.publication_category %}
+    {% assign cat_posts = site.publications | where: "category", category[0] %}
+    {% if cat_posts.size > 0 %}
+<div class="pub-section">
+<h2>{{ category[1].title }}</h2><hr>
+<ol class="pub-list">
+  {% for post in cat_posts reversed %}
+  <li>
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}"><b>{{ post.title }}</b></a>
+    {% else %}
+      <b>{{ post.title }}</b>
+    {% endif %}
+    &nbsp;—&nbsp;<i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
+    {% if post.content != "" %}
+    <details><summary>▸ Abstract</summary>
+    <p>{{ post.content | strip_html | strip }}</p>
+    </details>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ol>
+</div>
+    {% endif %}
+  {% endfor %}
+{% else %}
+<ol class="pub-list">
+  {% for post in site.publications reversed %}
+  <li>
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}"><b>{{ post.title }}</b></a>
+    {% else %}
+      <b>{{ post.title }}</b>
+    {% endif %}
+    &nbsp;—&nbsp;<i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}
+    {% if post.content != "" %}
+    <details><summary>▸ Abstract</summary>
+    <p>{{ post.content | strip_html | strip }}</p>
+    </details>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ol>
+{% endif %}
