@@ -40,6 +40,9 @@ author_profile: true
 <ol class="pub-list">
   {% for post in cat_posts reversed %}
   <li>
+    {% if post.citation %}
+      <span style="font-size:0.9em;">{{ post.citation | split: '&quot;' | first }}</span><br>
+    {% endif %}
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}"><b>{{ post.title }}</b></a>
     {% else %}
@@ -61,6 +64,9 @@ author_profile: true
 <ol class="pub-list">
   {% for post in site.publications reversed %}
   <li>
+    {% if post.citation %}
+      <span style="font-size:0.9em;">{{ post.citation | split: '&quot;' | first }}</span><br>
+    {% endif %}
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}"><b>{{ post.title }}</b></a>
     {% else %}
