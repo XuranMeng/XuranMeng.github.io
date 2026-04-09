@@ -1,16 +1,30 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<style>
+.talk-table { width: 100%; border-collapse: collapse; }
+.talk-table tr { border-bottom: 1px solid #eee; }
+.talk-table td { padding: 0.4em 0.5em; vertical-align: top; }
+.talk-table td:first-child { white-space: nowrap; color: #555; font-size: 0.9em; width: 4em; }
+.talk-table td:nth-child(2) { white-space: nowrap; color: #888; font-size: 0.85em; width: 5em; }
+</style>
 
-{% endif %}
-
+<table class="talk-table">
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  <tr>
+    <td>{{ post.date | date: "%Y" }}</td>
+    <td>{{ post.type }}</td>
+    <td>
+      {% if post.link %}<a href="{{ post.link }}">{{ post.title }}</a>
+      {% else %}{{ post.title }}{% endif %}
+      {% if post.location %}<br><span style="font-size:0.85em; color:#666;">{{ post.venue }}, {{ post.location }}</span>{% endif %}
+    </td>
+  </tr>
 {% endfor %}
+</table>
