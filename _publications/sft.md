@@ -4,8 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/sft
 date: 2026-05-01
-excerpt: 'International Conference on Machine Learning'
-venue: 'Arxiv'
+venue: 'International Conference on Machine Learning'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/pdf/2508.06026'
 citation: 'Yidong Wang et. al., &quot;Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future.&quot; <i>arxiv: 2508.06026</i>, 2025.'
