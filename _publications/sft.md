@@ -1,10 +1,10 @@
 ---
 title: "Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via Past-Future."
 collection: publications
-category: preprints
+category: conferences
 permalink: /publication/sft
-date: 2025-8-8
-excerpt: 'Submitted to AAAI'
+date: 2026-05-01
+excerpt: 'International Conference on Machine Learning'
 venue: 'Arxiv'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/pdf/2508.06026'
