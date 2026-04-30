@@ -3,7 +3,7 @@ title: "Inference for Deep Neural Network Estimators in Generalized Nonparametri
 collection: publications
 category: manuscripts
 permalink: /publication/GNRM
-excerpt: 'Accepted by JASA'
+excerpt: 'JASA (Theory and Methodology)'
 date: 2026-02-21
 venue: 'Journal of the American Statistical Association'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
