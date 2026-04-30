@@ -3,7 +3,7 @@ title: "Estimation of Out-of-Sample Sharpe Ratio for High Dimensional Portfolio 
 collection: publications
 category: manuscripts
 permalink: /publication/Sharperatio
-excerpt: ' '
+excerpt: 'JASA (Theory and Methodology)'
 date: 2025-07-08
 venue: 'Journal of the American Statistical Association'
 slidesurl: 'http://xuranmeng.github.io/files/slides/slidesSharpe.pdf'
